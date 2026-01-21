@@ -13,7 +13,6 @@ namespace LibraryApp.Services
         public List<Item> Items { get; set; } = new();
         public List<Loan> Loans { get; set; } = new();
 
-
         public void BorrowItem(int itemId, Member member)
         {
             var item = Items.FirstOrDefault(i => i.Id == itemId);
@@ -55,3 +54,4 @@ namespace LibraryApp.Services
         }
     }
 }
+
