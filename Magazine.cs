@@ -10,7 +10,6 @@ namespace LibraryApp.Models
     {
         public int IssueNumber { get; private set; }
 
-
         public Magazine(int id, string title, int issueNumber)
         : base(id, title)
         {
@@ -18,3 +17,4 @@ namespace LibraryApp.Models
         }
     }
 }
+
