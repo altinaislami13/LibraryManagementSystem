@@ -129,7 +129,6 @@ LibraryApp/
 * Uses `int.TryParse` to prevent crashes
 * Displays user-friendly error messages
 
-
 ## 🚀 Future Improvements
 * Reservation system
 * Late fee payment
