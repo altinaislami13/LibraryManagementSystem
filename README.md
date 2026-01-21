@@ -49,7 +49,6 @@
 * Interfaces where applicable
 
 ---
-
 ## 🗂 Project Structure
 
 ```
