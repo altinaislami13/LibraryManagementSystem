@@ -2,7 +2,7 @@
 
  📌 Project Overview
 
-This project is an **Advanced Library Management System** built as a **C# Console Application**, following **Object-Oriented Programming (OOP)** principles and academic requirements.
+-This project is an **Advanced Library Management System** built as a **C# Console Application**, following **Object-Oriented Programming (OOP)** principles and academic requirements.
 
 The system allows users to manage a library with **Books, Magazines, and DVDs**, supporting borrowing, returning, pagination, late fee logic, and persistent data storage using **JSON files**.
 
