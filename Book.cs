@@ -15,9 +15,12 @@ namespace LibraryApp.Models
         public Book(int id, string title, string author, int year, int pages)
             : base(id, title)
         {
+        
             Author = author;
             Year = year;
             Pages = pages;
+      
         }
     }
 }
+
