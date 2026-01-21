@@ -10,5 +10,7 @@ namespace LibraryApp.People
     {
         public AdultMember(int id, string name) : base(id, name) { }
         public override decimal LateFeePerDay => 1.00m;
+   
     }
 }
+
