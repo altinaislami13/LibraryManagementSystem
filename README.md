@@ -100,7 +100,6 @@ LibraryApp/
 * The `Data` folder is created automatically if missing
 
 ---
-
 ## 🧾 CRUD Operations
 
 | Operation | Description                |
