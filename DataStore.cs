@@ -9,7 +9,6 @@ using System.Text.Json;
 
 namespace LibraryApp.Data
 {
-
     public static class DataStore
     {
         private static string folder = "Data";
@@ -41,3 +40,4 @@ namespace LibraryApp.Data
     }
 
 }
+
