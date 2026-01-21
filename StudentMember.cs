@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace LibraryApp.People
 {
     public class StudentMember : Member
@@ -12,3 +13,4 @@ namespace LibraryApp.People
         public override decimal LateFeePerDay => 0.50m;
     }
 }
+
